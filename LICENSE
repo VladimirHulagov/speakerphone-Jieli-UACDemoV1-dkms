@@ -1,0 +1,4 @@
+GPL-2.0-or-later
+
+This DKMS module patches the Linux kernel's snd-usb-audio driver,
+which is licensed under GPL-2.0-or-later.
